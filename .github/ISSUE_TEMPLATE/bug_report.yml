@@ -11,8 +11,8 @@ body:
     attributes:
       label: What client do you play on?
       options:
-      - enGB
       - enUS
+      - enGB
       - deDE
       - esES
       - esMX

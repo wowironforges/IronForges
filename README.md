@@ -1,16 +1,18 @@
-### Hi there 👋
+# www.Iron-Old.com Bug Tracker
 
-<!--
-**iron-old/iron-old** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## FOR PLAYERS: How to report bugs
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+1. Check the [bug list](https://github.com/iron-old/iron-old/issues) to see if the bug has already been reported.
+
+2. If the bug has not been reported yet, please [create a new ticket](https://github.com/iron-old/iron-old/issues/new). Please fill in all of the requested details.
+
+- [**Iron-Old issue tickets**](https://github.com/iron-old/iron-old/issues) : The complete list of currently reported issues (bugs).
+- [**Create a new issue ticket**](https://github.com/iron-old/iron-old/issues/new/choose) : Open a new ticket page to fill in the required information.
+
+#### Most common mistakes:
+
+1. Content Phase
+
+- **NOT CORRECT** marking everything as "Generic bug"
+- **CORRECT** specify the RIGHT Content Phase, according to the level of the zone/dungeon/etc...
